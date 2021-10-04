@@ -1,0 +1,16 @@
+{
+  "name": "tennis",
+  "version": "1.0.0",
+  "description": "tennis scorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@c3ltd/eslint-config": "^1.0.0",
+    "@types/node": "^16.10.2",
+    "jest": "^27.2.4"
+  }
+}
